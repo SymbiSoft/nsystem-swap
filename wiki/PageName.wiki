@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+
+= Introducción =
+
+Si has leido la descripción inicial del proyecto. Entenderás el funcionameinto del programa.
+
+
+= Detalles =
+
+* FUNCIONAMIENTO:*
+
+El funcionamiento es muy simple. Ya que cada carpeta "system" contiene todos los elementos lo que haremos será crear una nueva carpetapor cada nueva configuración. Si seguimos con el ejemplo de los jeugos de N-Gage, una nueva carpeta por cada juego. Así cada carpeta "system" sólo contendrá el juego y las librerías necesarias para su funcionamiento.
